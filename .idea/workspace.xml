@@ -2,53 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="017be26c-155d-4b02-97a7-0cc2d8c91dbe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare/apps/progress/admin.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/startproject/apps/progress/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/startproject/settings/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/startproject/settings/common.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/startproject/settings/dev.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/startproject/settings/prod.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/__init__.py" afterPath="$PROJECT_DIR$/childcare/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/__init__.py" afterPath="$PROJECT_DIR$/childcare/apps/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/membermanagement/__init__.py" afterPath="$PROJECT_DIR$/childcare/apps/membermanagement/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/membermanagement/admin.py" afterPath="$PROJECT_DIR$/childcare/apps/membermanagement/admin.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/membermanagement/models.py" afterPath="$PROJECT_DIR$/childcare/apps/membermanagement/models.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/membermanagement/tests.py" afterPath="$PROJECT_DIR$/childcare/apps/membermanagement/tests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/membermanagement/urls.py" afterPath="$PROJECT_DIR$/childcare/apps/membermanagement/urls.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/membermanagement/views.py" afterPath="$PROJECT_DIR$/childcare/apps/membermanagement/views.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/progress/__init__.py" afterPath="$PROJECT_DIR$/childcare/apps/progress/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/progress/models.py" afterPath="$PROJECT_DIR$/childcare/apps/progress/models.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/progress/models.py.save" afterPath="$PROJECT_DIR$/childcare/apps/progress/models.py.save" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/progress/tests.py" afterPath="$PROJECT_DIR$/childcare/apps/progress/tests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/progress/urls.py" afterPath="$PROJECT_DIR$/childcare/apps/progress/urls.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/progress/views.py" afterPath="$PROJECT_DIR$/childcare/apps/progress/views.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/webapp/__init__.py" afterPath="$PROJECT_DIR$/childcare/apps/webapp/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/webapp/models.py" afterPath="$PROJECT_DIR$/childcare/apps/webapp/models.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/webapp/tests.py" afterPath="$PROJECT_DIR$/childcare/apps/webapp/tests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/webapp/urls.py" afterPath="$PROJECT_DIR$/childcare/apps/webapp/urls.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/webapp/views.py" afterPath="$PROJECT_DIR$/childcare/apps/webapp/views.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/libs/__init__.py" afterPath="$PROJECT_DIR$/childcare/libs/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/static/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/childcare/static/css/bootstrap-theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/static/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/childcare/static/css/bootstrap-theme.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/static/css/bootstrap.css" afterPath="$PROJECT_DIR$/childcare/static/css/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/static/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/childcare/static/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/static/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/childcare/static/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/static/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/childcare/static/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/static/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/childcare/static/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/static/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/childcare/static/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/static/js/bootstrap.js" afterPath="$PROJECT_DIR$/childcare/static/js/bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/static/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/childcare/static/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/templates/404.html" afterPath="$PROJECT_DIR$/childcare/templates/404.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/templates/500.html" afterPath="$PROJECT_DIR$/childcare/templates/500.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/templates/Home.html" afterPath="$PROJECT_DIR$/childcare/templates/Home.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/templates/base.html" afterPath="$PROJECT_DIR$/childcare/templates/base.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/templates/registration/login.html" afterPath="$PROJECT_DIR$/childcare/templates/registration/login.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/urls.py" afterPath="$PROJECT_DIR$/childcare/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/django/core/management/__init__.py" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/django/core/management/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/django/core/servers/basehttp.py" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/django/core/servers/basehttp.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fabfile.py" afterPath="$PROJECT_DIR$/fabfile.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manage.py" afterPath="$PROJECT_DIR$/manage.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wsgi.py" afterPath="$PROJECT_DIR$/wsgi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="childcare.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -89,10 +44,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="runtime.txt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="runtime.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/runtime.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="13" selection-end="13" vertical-scroll-proportion="0.021686748" vertical-offset="0" max-vertical-offset="830">
+            <state line="1" column="0" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="9" selection-start="208" selection-end="208" vertical-scroll-proportion="0.4554217" vertical-offset="0" max-vertical-offset="830">
               <folding />
             </state>
           </provider>
@@ -102,15 +66,6 @@
         <entry file="file://$PROJECT_DIR$/childcare/apps/membermanagement/admin.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="20" column="31" selection-start="434" selection-end="434" vertical-scroll-proportion="-14.4" vertical-offset="0" max-vertical-offset="468">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dev.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/childcare/settings/dev.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="41" selection-start="1235" selection-end="1235" vertical-scroll-proportion="0.0" vertical-offset="882" max-vertical-offset="1476">
               <folding />
             </state>
           </provider>
@@ -179,7 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/startproject/apps/progress/admin.py" />
         <option value="$PROJECT_DIR$/startproject/urls.py" />
         <option value="$PROJECT_DIR$/startproject/apps/progress/urls.py" />
         <option value="$PROJECT_DIR$/startproject/apps/progress/views.py" />
@@ -195,6 +149,7 @@
         <option value="$PROJECT_DIR$/startproject/templates/registration/login.html" />
         <option value="$PROJECT_DIR$/startproject/apps/membermanagement/models.py" />
         <option value="$PROJECT_DIR$/startproject/apps/webapp/urls.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -524,13 +479,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/childcare/apps/progress/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/childcare/settings/common.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="126" column="56" selection-start="3616" selection-end="3616" vertical-scroll-proportion="0.0" vertical-offset="2268" max-vertical-offset="5220">
@@ -631,7 +579,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/runtime.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="13" selection-end="13" vertical-scroll-proportion="0.021686748" vertical-offset="0" max-vertical-offset="830">
+        <state line="1" column="0" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="9" selection-start="208" selection-end="208" vertical-scroll-proportion="0.4554217" vertical-offset="0" max-vertical-offset="830">
           <folding />
         </state>
       </provider>
