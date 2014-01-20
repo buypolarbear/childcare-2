@@ -1,7 +1,7 @@
 from django.contrib import admin
 
 # Register your models here.
-from startproject.apps.membermanagement.models import Student, Note, Tenant, UserProfile
+from childcare.apps.membermanagement.models import Student, Note, Tenant, UserProfile
 
 
 class StudentAdmin(admin.ModelAdmin):

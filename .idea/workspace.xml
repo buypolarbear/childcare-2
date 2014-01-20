@@ -2,48 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="017be26c-155d-4b02-97a7-0cc2d8c91dbe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/recurrence/locale/en/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/recurrence/locale/en/LC_MESSAGES/djangojs.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/recurrence/static/recurrence/img/recurrence-calendar-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/startproject/templates/Home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/recurrence/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/startproject/apps/membermanagement/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/startproject/templates/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/recurrence/base.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/recurrence/choices.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/cssmin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare_django/bin/cssmin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/recurrence/locale/en/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/recurrence/locale/en/LC_MESSAGES/djangojs.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/recurrence/exceptions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/recurrence/fields.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/recurrence/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/startproject/templates/registration/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/recurrence/managers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/recurrence/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/recurrence/static/recurrence/js/recurrence-widget.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/recurrence/static/recurrence/css/recurrence.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/recurrence/static/recurrence/js/recurrence.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/recurrence/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/startproject/apps/membermanagement/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/startproject/apps/progress/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/startproject/apps/webapp/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/startproject/apps/membermanagement/views.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/apps/membermanagement/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/apps/membermanagement/views.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/membermanagement/__init__.py" afterPath="$PROJECT_DIR$/startproject/apps/membermanagement/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/membermanagement/models.py" afterPath="$PROJECT_DIR$/startproject/apps/membermanagement/models.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/membermanagement/tests.py" afterPath="$PROJECT_DIR$/startproject/apps/membermanagement/tests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/membermanagement/urls.py" afterPath="$PROJECT_DIR$/startproject/apps/progress/admin.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/progress/__init__.py" afterPath="$PROJECT_DIR$/startproject/apps/progress/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/progress/models.py" afterPath="$PROJECT_DIR$/startproject/apps/progress/models.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/progress/models.py.save" afterPath="$PROJECT_DIR$/startproject/apps/progress/models.py.save" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/progress/tests.py" afterPath="$PROJECT_DIR$/startproject/apps/progress/tests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/progress/views.py" afterPath="$PROJECT_DIR$/startproject/apps/progress/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/djangorestframework-2.3.10.dist-info/RECORD" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/djangorestframework-2.3.10.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/startproject/settings/common.py" afterPath="$PROJECT_DIR$/startproject/settings/common.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/startproject/settings/dev.py" afterPath="$PROJECT_DIR$/startproject/settings/dev.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/startproject/urls.py" afterPath="$PROJECT_DIR$/startproject/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/childcare/apps/progress/admin.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/startproject/apps/progress/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/startproject/settings/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/startproject/settings/common.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/startproject/settings/dev.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/startproject/settings/prod.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/__init__.py" afterPath="$PROJECT_DIR$/childcare/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/__init__.py" afterPath="$PROJECT_DIR$/childcare/apps/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/membermanagement/__init__.py" afterPath="$PROJECT_DIR$/childcare/apps/membermanagement/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/membermanagement/admin.py" afterPath="$PROJECT_DIR$/childcare/apps/membermanagement/admin.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/membermanagement/models.py" afterPath="$PROJECT_DIR$/childcare/apps/membermanagement/models.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/membermanagement/tests.py" afterPath="$PROJECT_DIR$/childcare/apps/membermanagement/tests.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/membermanagement/urls.py" afterPath="$PROJECT_DIR$/childcare/apps/membermanagement/urls.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/membermanagement/views.py" afterPath="$PROJECT_DIR$/childcare/apps/membermanagement/views.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/progress/__init__.py" afterPath="$PROJECT_DIR$/childcare/apps/progress/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/progress/models.py" afterPath="$PROJECT_DIR$/childcare/apps/progress/models.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/progress/models.py.save" afterPath="$PROJECT_DIR$/childcare/apps/progress/models.py.save" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/progress/tests.py" afterPath="$PROJECT_DIR$/childcare/apps/progress/tests.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/progress/urls.py" afterPath="$PROJECT_DIR$/childcare/apps/progress/urls.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/progress/views.py" afterPath="$PROJECT_DIR$/childcare/apps/progress/views.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/webapp/__init__.py" afterPath="$PROJECT_DIR$/childcare/apps/webapp/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/webapp/models.py" afterPath="$PROJECT_DIR$/childcare/apps/webapp/models.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/webapp/tests.py" afterPath="$PROJECT_DIR$/childcare/apps/webapp/tests.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/webapp/urls.py" afterPath="$PROJECT_DIR$/childcare/apps/webapp/urls.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/apps/webapp/views.py" afterPath="$PROJECT_DIR$/childcare/apps/webapp/views.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/libs/__init__.py" afterPath="$PROJECT_DIR$/childcare/libs/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/static/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/childcare/static/css/bootstrap-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/static/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/childcare/static/css/bootstrap-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/static/css/bootstrap.css" afterPath="$PROJECT_DIR$/childcare/static/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/static/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/childcare/static/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/static/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/childcare/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/static/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/childcare/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/static/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/childcare/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/static/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/childcare/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/static/js/bootstrap.js" afterPath="$PROJECT_DIR$/childcare/static/js/bootstrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/static/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/childcare/static/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/templates/404.html" afterPath="$PROJECT_DIR$/childcare/templates/404.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/templates/500.html" afterPath="$PROJECT_DIR$/childcare/templates/500.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/templates/Home.html" afterPath="$PROJECT_DIR$/childcare/templates/Home.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/templates/base.html" afterPath="$PROJECT_DIR$/childcare/templates/base.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/templates/registration/login.html" afterPath="$PROJECT_DIR$/childcare/templates/registration/login.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/startproject/urls.py" afterPath="$PROJECT_DIR$/childcare/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/django/core/management/__init__.py" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/django/core/management/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/django/core/servers/basehttp.py" afterPath="$PROJECT_DIR$/childcare_django/lib/python2.7/site-packages/django/core/servers/basehttp.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fabfile.py" afterPath="$PROJECT_DIR$/fabfile.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manage.py" afterPath="$PROJECT_DIR$/manage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wsgi.py" afterPath="$PROJECT_DIR$/wsgi.py" />
     </list>
     <ignored path="childcare.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,26 +71,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="models.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/startproject/apps/membermanagement/models.py">
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/childcare/apps/membermanagement/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="32" selection-start="829" selection-end="829" vertical-scroll-proportion="0.51428574" vertical-offset="180" max-vertical-offset="1188">
+            <state line="28" column="32" selection-start="829" selection-end="829" vertical-scroll-proportion="-11.52" vertical-offset="180" max-vertical-offset="1188">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="144">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="runtime.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/runtime.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="13" selection-end="13" vertical-scroll-proportion="0.021686748" vertical-offset="0" max-vertical-offset="830">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="admin.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/startproject/apps/membermanagement/admin.py">
+        <entry file="file://$PROJECT_DIR$/childcare/apps/membermanagement/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="31" selection-start="437" selection-end="437" vertical-scroll-proportion="-14.4" vertical-offset="0" max-vertical-offset="468">
+            <state line="20" column="31" selection-start="434" selection-end="434" vertical-scroll-proportion="-14.4" vertical-offset="0" max-vertical-offset="468">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="dev.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/startproject/settings/dev.py">
+        <entry file="file://$PROJECT_DIR$/childcare/settings/dev.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="49" column="41" selection-start="1235" selection-end="1235" vertical-scroll-proportion="0.0" vertical-offset="882" max-vertical-offset="1476">
               <folding />
@@ -94,25 +117,7 @@
         </entry>
       </file>
       <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/startproject/apps/progress/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="20" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="198">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/startproject/apps/membermanagement/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="15" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="396">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/startproject/apps/webapp/views.py">
+        <entry file="file://$PROJECT_DIR$/childcare/apps/webapp/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="12" column="89" selection-start="427" selection-end="427" vertical-scroll-proportion="-8.64" vertical-offset="0" max-vertical-offset="324">
               <folding />
@@ -121,7 +126,7 @@
         </entry>
       </file>
       <file leaf-file-name="login.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/startproject/templates/registration/login.html">
+        <entry file="file://$PROJECT_DIR$/childcare/templates/registration/login.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="7" column="14" selection-start="258" selection-end="258" vertical-scroll-proportion="-4.6666665" vertical-offset="0" max-vertical-offset="234">
               <folding />
@@ -130,16 +135,16 @@
         </entry>
       </file>
       <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/startproject/apps/webapp/urls.py">
+        <entry file="file://$PROJECT_DIR$/childcare/apps/webapp/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="1" selection-start="251" selection-end="251" vertical-scroll-proportion="-4.32" vertical-offset="0" max-vertical-offset="216">
+            <state line="7" column="1" selection-start="248" selection-end="248" vertical-scroll-proportion="-4.32" vertical-offset="0" max-vertical-offset="216">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="base.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/startproject/templates/base.html">
+        <entry file="file://$PROJECT_DIR$/childcare/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="32" column="25" selection-start="1345" selection-end="1345" vertical-scroll-proportion="-12.666667" vertical-offset="234" max-vertical-offset="900">
               <folding />
@@ -148,7 +153,7 @@
         </entry>
       </file>
       <file leaf-file-name="Home.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/startproject/templates/Home.html">
+        <entry file="file://$PROJECT_DIR$/childcare/templates/Home.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="15" column="14" selection-start="435" selection-end="435" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="378">
               <folding />
@@ -241,60 +246,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="childcare" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="childcare" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="childcare" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="startproject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="childcare" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="childcare" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="startproject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="childcare" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="childcare" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="startproject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="registration" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -528,14 +479,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="183" y="33" width="1665" height="1024" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2774632" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2774632" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299435" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24984539" sideWeight="0.7225368" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24984539" sideWeight="0.6704417" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -544,7 +496,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -565,7 +516,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/startproject/apps/webapp/views.py</url>
+          <url>file://$PROJECT_DIR$/childcare/apps/webapp/views.py</url>
           <line>2</line>
         </line-breakpoint>
       </breakpoints>
@@ -573,110 +524,114 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/startproject/apps/webapp/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/startproject/apps/progress/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="35" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/startproject/apps/progress/tests.py">
+    <entry file="file://$PROJECT_DIR$/childcare/apps/progress/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/startproject/settings/common.py">
+    <entry file="file://$PROJECT_DIR$/childcare/settings/common.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="126" column="56" selection-start="3616" selection-end="3616" vertical-scroll-proportion="0.0" vertical-offset="2268" max-vertical-offset="5220">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/startproject/apps/progress/models.py">
+    <entry file="file://$PROJECT_DIR$/childcare/apps/progress/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="29" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/startproject/apps/membermanagement/urls.py">
+    <entry file="file://$PROJECT_DIR$/childcare/apps/membermanagement/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="26" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/startproject/apps/progress/views.py">
+    <entry file="file://$PROJECT_DIR$/childcare/apps/progress/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="20" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+        <state line="5" column="20" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="198">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/startproject/apps/membermanagement/views.py">
+    <entry file="file://$PROJECT_DIR$/childcare/apps/membermanagement/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="15" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/startproject/settings/dev.py">
+    <entry file="file://$PROJECT_DIR$/childcare/settings/dev.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="49" column="41" selection-start="1235" selection-end="1235" vertical-scroll-proportion="0.0" vertical-offset="567" max-vertical-offset="1440">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/startproject/templates/Home.html">
+    <entry file="file://$PROJECT_DIR$/childcare/templates/Home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="14" selection-start="435" selection-end="435" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="378">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/startproject/templates/base.html">
+    <entry file="file://$PROJECT_DIR$/childcare/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="25" selection-start="1345" selection-end="1345" vertical-scroll-proportion="-12.666667" vertical-offset="234" max-vertical-offset="900">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/startproject/templates/registration/login.html">
+    <entry file="file://$PROJECT_DIR$/childcare/templates/registration/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="14" selection-start="258" selection-end="258" vertical-scroll-proportion="-4.6666665" vertical-offset="0" max-vertical-offset="234">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/startproject/apps/webapp/views.py">
+    <entry file="file://$PROJECT_DIR$/childcare/apps/webapp/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="89" selection-start="427" selection-end="427" vertical-scroll-proportion="-8.64" vertical-offset="0" max-vertical-offset="324">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/startproject/apps/webapp/urls.py">
+    <entry file="file://$PROJECT_DIR$/childcare/apps/webapp/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="1" selection-start="251" selection-end="251" vertical-scroll-proportion="-4.32" vertical-offset="0" max-vertical-offset="216">
+        <state line="7" column="1" selection-start="248" selection-end="248" vertical-scroll-proportion="-4.32" vertical-offset="0" max-vertical-offset="216">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/startproject/apps/membermanagement/admin.py">
+    <entry file="file://$PROJECT_DIR$/childcare/apps/membermanagement/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="31" selection-start="437" selection-end="437" vertical-scroll-proportion="-14.4" vertical-offset="0" max-vertical-offset="468">
+        <state line="20" column="31" selection-start="434" selection-end="434" vertical-scroll-proportion="-14.4" vertical-offset="0" max-vertical-offset="468">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/startproject/apps/membermanagement/models.py">
+    <entry file="file://$PROJECT_DIR$/childcare/apps/membermanagement/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="32" selection-start="829" selection-end="829" vertical-scroll-proportion="0.51428574" vertical-offset="180" max-vertical-offset="1188">
+        <state line="28" column="32" selection-start="829" selection-end="829" vertical-scroll-proportion="-11.52" vertical-offset="180" max-vertical-offset="1188">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="830">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtime.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="13" selection-end="13" vertical-scroll-proportion="0.021686748" vertical-offset="0" max-vertical-offset="830">
           <folding />
         </state>
       </provider>

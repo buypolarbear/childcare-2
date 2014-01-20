@@ -1,4 +1,4 @@
-from startproject.apps.membermanagement.models import Student
+from childcare.apps.membermanagement.models import Student
 from django.contrib.auth.models import User
 from django.db import models
 

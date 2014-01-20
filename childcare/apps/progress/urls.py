@@ -1,6 +1,6 @@
 from django.conf.urls import patterns, url, include
 from rest_framework import routers
-from startproject.apps.progress.views import ActivityViewSet
+from childcare.apps.progress.views import ActivityViewSet
 
 __author__ = 'angelo'
 

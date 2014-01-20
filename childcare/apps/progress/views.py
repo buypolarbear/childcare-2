@@ -1,5 +1,5 @@
 from rest_framework import routers, viewsets
-from startproject.apps.progress.models import Activity
+from childcare.apps.progress.models import Activity
 
 
 class ActivityViewSet(viewsets.ModelViewSet):

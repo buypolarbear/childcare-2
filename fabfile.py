@@ -17,7 +17,7 @@ HEROKU_ADDONS = (
     'sentry:developer',
 )
 HEROKU_CONFIGS = (
-    'DJANGO_SETTINGS_MODULE=startproject.settings.prod',
+    'DJANGO_SETTINGS_MODULE=childcare.settings.prod',
     'SECRET_KEY=wc@&*m3vhpg36)(s6@w#d1+1kaxwro(b$1nucro(4#9ka_t*^q',
     'AWS_ACCESS_KEY_ID=xxx',
     'AWS_SECRET_ACCESS_KEY=xxx',

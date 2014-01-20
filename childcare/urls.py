@@ -3,7 +3,7 @@ from django.conf.urls import patterns, include, url
 
 
 # See: https://docs.djangoproject.com/en/dev/ref/contrib/admin/#hooking-adminsite-instances-into-your-urlconf
-from startproject import apps
+from childcare import apps
 
 admin.autodiscover()
 
