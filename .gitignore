@@ -16,3 +16,8 @@ build
 
 # Celerybeat scheduler file:
 celerybeat-schedule
+
+*.json
+
+settings
+

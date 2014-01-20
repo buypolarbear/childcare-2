@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div class="row">
+        <h3>My Children</h3>
+    {% for student in student_set %}
+        <div class="col-lg-3 well-lg">
+            <h3>{{student.last_name}}</h3>
+            <h5>{{student.first_name}}</h5>
+        </div>
+    {% endfor %}
+    </div>
+        <div class="row">
+            <a class="btn btn-large btn-primary">Sign up a new student!</a>
+        </div>
+{% endblock %}

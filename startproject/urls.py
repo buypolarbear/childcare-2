@@ -13,5 +13,10 @@ urlpatterns = patterns('',
     # Admin panel and documentation:
     url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
     url(r'^admin/', include(admin.site.urls)),
-    url(r'^api/membermanagement', include(apps.membermanagement.urls))
+    #webapp
+    url(r'^', include('apps.webapp.urls')),
+
+    #api
+    url(r'^api/membermanagement/', include('apps.membermanagement.urls')),
+    url(r'^api/progress/', include('apps.progress.urls'))
 )

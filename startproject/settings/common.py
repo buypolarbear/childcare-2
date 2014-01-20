@@ -124,6 +124,8 @@ FIXTURE_DIRS = (
 ########## END FIXTURE CONFIGURATION
 
 
+AUTH_PROFILE_MODULE = "apps.membermanagement.UserProfile"
+
 ########## TEMPLATE CONFIGURATION
 # See: https://docs.djangoproject.com/en/dev/ref/settings/#template-context-processors
 TEMPLATE_CONTEXT_PROCESSORS = (
@@ -199,9 +201,16 @@ THIRD_PARTY_APPS = (
 
     # Asynchronous task queue:
     'djcelery',
+
+    #rest api
+    'rest_framework',
+
+    'recurrence'
 )
 
 LOCAL_APPS = (
+    'apps.progress',
+    'apps.membermanagement'
 )
 
 # See: https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
