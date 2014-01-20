@@ -1,3 +1,5 @@
+settings/
+
 # Python bytecode:
 *.py[co]
 
@@ -19,5 +21,4 @@ celerybeat-schedule
 
 *.json
 
-childcare/settings/
 
